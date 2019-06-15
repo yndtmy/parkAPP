@@ -88,7 +88,7 @@
             <input type="date" class="form-control" id="date" name="date">
         </div>
         <div class="form-group">
-            <label for="comment">コメント</label>
+            <label for="comment">こめんと</label>
             <textarea class="form-control" id="comment" rows="3" name="comment"></textarea>
         </div>
 
